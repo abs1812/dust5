@@ -1,0 +1,15 @@
+# 환경변수 파일 (인증키 유출 방지)
+.env
+.env.local
+.env.*.local
+
+# Vercel 로컬 개발 및 빌드 캐시
+.vercel
+
+# Node.js 종속성 디렉터리
+node_modules/
+
+# 운영체제 생성 임시 파일
+.DS_Store
+Thumbs.db
+
